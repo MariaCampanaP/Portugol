@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=55AD9B&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
 
 # ☕︎ Portugol
 Repositório contento exercícios e projetos em **Portugol** - códigos feitos para treinar lógica de programação e algoritmos usando VisualG3
@@ -28,5 +28,5 @@ Este repositório reúne implementações e conceitos fundamentais de **Lógica 
 git clone https://github.com/MariaCampanaP/Portugol.git
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=55AD9B&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
 
