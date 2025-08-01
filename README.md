@@ -24,9 +24,9 @@ Este repositório reúne implementações e conceitos fundamentais de **Lógica 
 
 1. Clone o repositório para o seu computador:
 
-```bash
-git clone https://github.com/MariaCampanaP/Portugol.git
-```
+    ```bash
+    git clone https://github.com/MariaCampanaP/Portugol.git
+    ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
 
